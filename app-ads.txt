@@ -1,0 +1,6 @@
+# app-ads.txt for PunisherGames
+# Lists the ad networks authorised to sell ads in PunisherGames apps.
+# Replace the publisher ID below with your own AdMob ID (AdMob → Settings → Account information)
+# and remove the leading "#" to activate it. Add one line per ad network you use.
+#
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0

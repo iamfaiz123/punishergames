@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="74 50 192 220">
+  <title>PunisherGames</title>
+  <polygon points="170,56 260,108 260,212 170,264 80,212 80,108" fill="#17171A" stroke="#E5262B" stroke-width="6" stroke-linejoin="round"/>
+  <polygon points="170,74 244,117 244,203 170,246 96,203 96,117" fill="none" stroke="#3A3A40" stroke-width="2"/>
+  <path fill-rule="evenodd" fill="#F5F5F5" d="M138 108 H192 Q226 108 226 140 Q226 172 192 172 H166 V214 H138 Z M166 130 H188 Q200 130 200 140 Q200 150 188 150 H166 Z"/>
+  <rect x="186" y="196" width="30" height="12" rx="3" fill="#E5262B"/>
+  <rect x="195" y="187" width="12" height="30" rx="3" fill="#E5262B"/>
+</svg>
