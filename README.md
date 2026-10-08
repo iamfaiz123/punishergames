@@ -17,9 +17,8 @@ Static website for PunisherGames — a mobile game studio. Pure HTML/CSS/JS, no 
 
 ## Before publishing
 
-- Replace the highlighted placeholders: business address (`privacy-policy.html`) and governing law (`terms.html`) — search for `class="fill"`.
 - Replace the sample games (Hex Fury, Neon Drift, Siege Breakers) in `index.html` and the game list in `delete-account.html`.
-- Set up the emails used across the site: support@, business@, privacy@, safety@punishergames.com.
+- Set up the emails used across the site: support@, business@, privacy@, contactpunishergames@gmail.com.
 - Add your AdMob publisher ID to `app-ads.txt`.
 - Update social links in each page footer (`href="#"`).
 - Make sure the third-party services listed in the Privacy Policy match the SDKs your games actually use, and that it matches your Play Console Data safety form.
